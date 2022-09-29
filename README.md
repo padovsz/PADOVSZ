@@ -1,4 +1,4 @@
-<img src="https://picrew.me/shareImg/org/202209/197705_kPE3cBcq.png" align="right" alt="padovan-pic" width="220">
+<img src="https://picrew.me/shareImg/org/202209/644129_keWbiEFb.png" align="right" alt="padovan-pic" width="220">
 
 ### 👋 Hi, I’m Maria Eduarda Padovan!
 
