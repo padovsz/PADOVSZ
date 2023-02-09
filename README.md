@@ -1,5 +1,3 @@
-<img src="https://picrew.me/shareImg/org/202209/684058_5UE8hV8N.png" align="right" alt="padovan-pic" width="220">
-
 ### 👋 Hi, I’m Maria Eduarda Padovan!
 
 - 👀 I’m interested in website and game development
