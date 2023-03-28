@@ -1,8 +1,10 @@
-### 👋 Hi, I’m Maria Eduarda Padovan!
-
-- 👀 I’m interested in website and game development
-- 🌱 I’m currently learning Java & JavaScript
-- 💻 I'm studying Computer Science at Colégio Técnico de Campinas - COTUCA
+<samp>
+  <h3>👋 Hi, I’m Maria Eduarda Padovan!</h3>
+  
+  👀 I’m interested in website and game development <br>
+  🌱 I’m currently learning Java & JavaScript <br>
+  💻 I'm studying Computer Science at Colégio Técnico de Campinas - COTUCA
+</samp>
 
 ## <div> 
   <a href="https://instagram.com/padovsz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
