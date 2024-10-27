@@ -2,7 +2,7 @@
   <h3>👋 Hi, I’m Maria Eduarda Padovan!</h3>
   
   👀 I’m interested in website and game development <br>
-  🌱 I’m currently learning Java & JavaScript <br>
+  🌱 I have skills in C#, Java & Javascript <br>
   💻 I'm studying Computer Science at Colégio Técnico de Campinas - COTUCA
 </samp>
 
